@@ -1,0 +1,20 @@
+{
+    "infos":{
+        "count": 1,
+        "from": 0,
+        "to": 1
+    },
+    "content":[
+        {
+            "kid": "sample",
+            "subfile": "sampleSong.ass",
+            "mediafile": "sampleSong.mp4",
+            "titles":{
+                "eng": "Sample Song",
+                "fra": "Chanson Exemple"
+            },
+            "titles_aliases":[],
+            "duration": 60
+        }
+    ]
+}

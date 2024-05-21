@@ -32,8 +32,6 @@ public class UIManager : MonoBehaviour
         netManager = GetComponent<NetManager>();
         karaManager = transform.parent.Find("Kara Manager").GetComponent<KaraManager>();
         root = transform.Find("Kara Selector Holder").Find("Kara Selector").GetChild(0).GetChild(0).Find("ListItems");
-        //netManager.SearchNew("Scream FFXIV");
-        //ShowResults(netManager.Karas);
     }
 
     // Update is called once per frame
