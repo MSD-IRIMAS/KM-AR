@@ -148,7 +148,14 @@ public class UIManager : MonoBehaviour
     public void OpenLocalSongs()
     {
         isLocal = true;
-        netManager.SearchLocal();
-        ShowResults(netManager.Karas);
+        try
+        {
+            netManager.SearchLocal();
+            ShowResults(netManager.Karas);
+        }
+        catch (Exception e)
+        {
+            text.text = e.Message;
+        }
     }
 }

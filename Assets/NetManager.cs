@@ -100,6 +100,7 @@ public class NetManager : MonoBehaviour
     public void SearchLocal()
     {
         TextAsset localSongs = Resources.Load<TextAsset>("LocalSongs");
+        if (localSongs == null || localSongs.text == string.Empty) throw new FileNotFoundException("Local Kara file not found.")
         Karas = JsonSerializer.Deserialize<SearchResult>(localSongs.text).Content;
     }
 
