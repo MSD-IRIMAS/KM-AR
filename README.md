@@ -1,4 +1,5 @@
 # KM_AR: Karaoke Mugen for Hololens 2
+Version en Français [en bas](#km_ar-karaoke-mugen-pour-hololens-2)
 ## Acknolegements
 This software uses:
 - [Karaoke Mugen](https://gitlab.com/karaokemugen) for fetching karaokes. [(Software licence)](https://gitlab.com/karaokemugen/code/karaokemugen-server/-/blob/master/LICENSE.md) [(Database licence)](https://gitlab.com/karaokemugen/bases/karaokebase/-/blob/master/LICENSE.md)
@@ -19,18 +20,19 @@ For copyright reasons, no local song are included. If you want to add some, foll
 #### Additional requirements
 - Unity 2021.3.15f1 with Universal Windows Platform Build Support and Windows Build Support. (IL2CPP)
 #### Instructions
-1. Download the source.
+1. Download the source [here](https://github.com/MSD-IRIMAS/KM-AR/archive/refs/heads/master.zip).
 2. Follow [this](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/new-openxr-project-with-mrtk#set-your-build-target) section of the page.
 3. Build.
 4. Follow the instructions [here](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-visual-studio) to build the build.
 ### From build
-1. Download the latest release.
+1. Download the latest release [here](https://github.com/MSD-IRIMAS/KM-AR/releases/latest).
 2. Follow the instructions [here](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-visual-studio).
 
 </br>
 </br>
 
 # KM_AR: Karaoke Mugen pour Hololens 2
+English version [on top](#km_ar-karaoke-mugen-for-hololens-2)
 ## Acquiescements
 Ce logiciel utilise:
 - [Karaoke Mugen](https://gitlab.com/karaokemugen) pour chercher les karaokes. [(Licence du logiciel)](https://gitlab.com/karaokemugen/code/karaokemugen-server/-/blob/master/LICENSE.md) [(Licence de la base de données)](https://gitlab.com/karaokemugen/bases/karaokebase/-/blob/master/LICENSE.md)
@@ -46,15 +48,15 @@ Pour des raisons de droit d'auteur, auccune chanson locale n'est incluse, si vou
 ## Instalation
 ### Prérequis
 - Un casque Hololens 2.
-- Un environement Visual Studio avec les modules requis (plus d'infos [ici](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools#installation-checklist))
+- Un environement Visual Studio avec les modules requis (plus d'infos [ici](https://learn.microsoft.com/fr-fr/windows/mixed-reality/develop/install-the-tools#installation-checklist))
 ### À partir de la source
 #### Prérequis additionels
 - Unity 2021.3.15f1 avec le Suport pour la Construction sur la Platforme Univercelle de Windows et le Support de Construction Windows IL2CPP.
 #### Instructions
-1. Téléchargez la source 
-2. Suivez [cette](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/new-openxr-project-with-mrtk#set-your-build-target) section de la page.
-3. Construisez
-4. Suivez les instructions [ici](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-visual-studio) pour construire ce qui a été construit
+1. Téléchargez la source [ici](https://github.com/MSD-IRIMAS/KM-AR/archive/refs/heads/master.zip).
+2. Suivez [cette](https://learn.microsoft.com/fr-fr/windows/mixed-reality/develop/unity/new-openxr-project-with-mrtk#set-your-build-target) section de la page.
+3. Construisez.
+4. Suivez les instructions [ici](https://learn.microsoft.com/fr-fr/windows/mixed-reality/develop/advanced-concepts/using-visual-studio) pour construire ce qui a été construit
 ### À partir de la constructuion
-1. Télécharchez la dernière version.
-2. Suivez les instructions [ici](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-visual-studio).
+1. Télécharchez la dernière version [ici](https://github.com/MSD-IRIMAS/KM-AR/releases/latest).
+2. Suivez les instructions [ici](https://learn.microsoft.com/fr-fr/windows/mixed-reality/develop/advanced-concepts/using-visual-studio).
